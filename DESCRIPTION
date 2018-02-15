@@ -5,8 +5,7 @@ Title: Extensions for copulaedas and vines
 Version: 1.4.1
 Date: 2017-12-13
 Author: Yasser Gonzalez-Fernandez <ygonzalezfernandez@gmail.com>, Diana 
-    Carrera <diana@icimaf.cu>, Marta Soto <mrosa@icimaf.cu>, and 
-	Alberto Ochoa <ochoa@icimaf.cu>
+    Carrera <dianacarrerasoto@gmail.com>
 Maintainer: Diana Carrera <dianacarrerasoto@gmail.com>
 Description: Regular vine(R-vine) are graphical probabilistical models for pair-copula constructions that represent high-dimensional distributions as a factorization of bivariate copulas and marginal density functions. This package is an extensions of copulaedas and vines package and contains methods for density/distribution function,estimation, evaluation, especification, and simulation for R-vine.
 License: file LICENSE
