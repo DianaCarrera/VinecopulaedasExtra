@@ -17,8 +17,6 @@ cd "path where the package is"
 R CMD INSTALL methods_*.tar.gz
 ```
 
-Install C library dml of github(“https://github.com/yasserglez/dml”)
-
 The last version of the package VinecopulaedasExtra can be installed running the following commands:
 
 ```r
