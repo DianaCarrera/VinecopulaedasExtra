@@ -11,5 +11,5 @@ Description: Regular vine(R-vine) are graphical probabilistical models for pair-
 License: file LICENSE
 LazyLoad: yes
 Depends: methods, copula, vines, copulaedas, copBasic
-Packaged: 2018-02-14 13:28:01 UTC; diana
+Packaged: 2018-02-19 15:44:09 UTC; diana
 NeedsCompilation: yes
